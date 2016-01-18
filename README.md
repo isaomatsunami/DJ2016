@@ -2,9 +2,11 @@
 
 2月13日にCAR(Computer-assisted reporting)の体験コース(crash course)を開きます。
 
-公示地価データを素材に、オープンソースのソフトウエアだけを使ってデータを閲覧します。作業に必要な基本スキルとして、表計算ソフト、GIS、SQL、Python（pandas）、R、シェルスクリプトを体験します。
+公示地価データを素材に、オープンソースのソフトウエアだけを使ってデータを閲覧します。作業に必要な基本スキルとして、表計算ソフト、GIS、SQL、Python（pandas）、R(統計ソフト)、シェルスクリプトを体験します。
 
-加盟社の記者・編集者はだれでも参加していただきたいのですが、今回は特に、NICARデンバー大会に参加を検討されている方のsession選択の参考になるよう、「それを学んで何が出来るようになるか」が分かるように企画しました。
+各領域だけで、入門本・マニュアルが何冊もある基本的かつ多機能なスキルです。「それを学んで何が出来るようになるか」が垣間見れるように企画しました。
+
+どなたでも参加していただいて構いませんが、今回は、特にNICARデンバー大会に参加を検討されている方のsession選択の参考になるように、「データの入手・分析側」に絞っています。
 
 * 場所：プレスセンタービル
 * 日時：2月13日12時~(予定)
@@ -22,7 +24,7 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
   * virtualBox <https://www.virtualbox.org/> オラクルに登録が必要です
   * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストールするものです
   * QGIS <http://qgis.org/ja/site/forusers/download.html>
-  * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です
+  * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です。Ubuntu側にインストールします
   * R <https://www.r-project.org/> 使わないかもしれません
 
 * Macの場合
