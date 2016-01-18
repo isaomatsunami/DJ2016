@@ -2,7 +2,7 @@
 
 2月13日にCAR(Computer-assisted reporting)の体験コース(crash course)を開きます。
 
-公示地価データを素材に、オープンソースのソフトウエアだけを使ってデータを閲覧します。作業に必要な基本スキルとして、表計算ソフト、GIS、SQL、Python（pandas）、R(統計ソフト)、シェルスクリプトを体験します。
+公示地価データを素材に、オープンソースのソフトウエア(OSS)だけを使ってデータを閲覧します。作業に必要な基本スキルとして、表計算ソフト、GIS、SQL、Python（pandas）、R(統計ソフト)、シェルスクリプトを体験します。
 
 各領域だけで、入門本・マニュアルが何冊もある基本的かつ多機能なスキルです。「それを学んで何が出来るようになるか」が垣間見れるように企画しました。
 
@@ -28,7 +28,7 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
   * R <https://www.r-project.org/> 使わないかもしれません
 
 * Macの場合
-  * LibreOffice<https://ja.libreoffice.org/>かOpenOffice<http://www.openoffice.org/ja/>
+  * LibreOffice<https://ja.libreoffice.org/>か、OpenOffice<http://www.openoffice.org/ja/>
   * QGIS <http://qgis.org/ja/site/forusers/download.html>
   * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です
   * R <https://www.r-project.org/> 使わないかもしれません
