@@ -20,15 +20,18 @@ CAR(Computer-assisted reporting)の体験コース(crash course)を開きます�
 
 NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを真似て、以下のソフトウエアをインストールします。
 ご自分でインストールできる方は13時から参加してください。
+virtualBoxのインストール手順は7日前までにここに掲示します。
 
 * Windows(7以降)の場合
-  * virtualBox <https://www.virtualbox.org/> オラクルに登録が必要です
-  * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストールするものです
+  * virtualBox <https://www.virtualbox.org/>
+  * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストール。LibreOfficeが含まれています
   * QGIS <http://qgis.org/ja/site/forusers/download.html>
   * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です。Ubuntu側にインストールします
   * R <https://www.r-project.org/> 使わないかもしれません
 
 * Macの場合
+  * virtualBox <https://www.virtualbox.org/> mac環境を汚したくない場合
+  * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストール。LibreOfficeが含まれています
   * LibreOffice<https://ja.libreoffice.org/>か、OpenOffice<http://www.openoffice.org/ja/>
   * QGIS <http://qgis.org/ja/site/forusers/download.html>
   * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です
