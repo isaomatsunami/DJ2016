@@ -13,21 +13,21 @@ CAR(Computer-assisted reporting)の体験コース(crash course)を開きます�
 * 持ち物：WindowsかMacのノートパソコン（ディスクに10GB程度の余裕が必要です。古いバージョンのOSは無理かもしれません）
 * 予定：12-13時　OSSソフトのインストール（オプション）
 * 　　　13-15時　公示地価データの分析体験
-* 　　　15-16時　Python(pandas)などを使った分析例のデモ
+* 　　　15-16時　国勢調査データの分析デモ
 * 　　　長丁場なので途中で抜けていただいて構いません
 
 #### OSSソフトのインストールについて
 
 NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを真似て、以下のソフトウエアをインストールします。
-ご自分でインストールできる方は13時から参加してください。
-virtualBoxのインストール手順は7日前までにここに掲示します。
+自分でインストールできる方は13時から参加してください。
+virtualBoxのインストール手順は２月５日までにここに掲示します。
 
 * Windows(7以降)の場合
   * virtualBox <https://www.virtualbox.org/>
   * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストール。LibreOfficeが含まれています
   * QGIS <http://qgis.org/ja/site/forusers/download.html>
   * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です。Ubuntu側にインストールします
-  * R <https://www.r-project.org/> 使わないかもしれません
+  * R <https://www.r-project.org/>
 
 * Macの場合
   * virtualBox <https://www.virtualbox.org/> mac環境を汚したくない場合
@@ -35,5 +35,5 @@ virtualBoxのインストール手順は7日前までにここに掲示します
   * LibreOffice<https://ja.libreoffice.org/>か、OpenOffice<http://www.openoffice.org/ja/>
   * QGIS <http://qgis.org/ja/site/forusers/download.html>
   * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です
-  * R <https://www.r-project.org/> 使わないかもしれません
+  * R <https://www.r-project.org/>
 
