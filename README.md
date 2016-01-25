@@ -11,12 +11,17 @@ NICAR2016予定セッション: <https://www.ire.org/conferences/nicar2016/expec
 
 * 場所：プレスセンタービル
 * 日時：2月13日12時~(予定)
+<<<<<<< HEAD
 * 持ち物：WindowsかMacのノートパソコン（ディスクに10-20GB程度の余裕が必要です。古いバージョンのOSは無理かもしれません）
+=======
+* 持ち物：WindowsかMacのノートパソコン（ディスクに10GB程度の余裕が必要です。古いバージョンのOSは無理かもしれません）
+>>>>>>> 82117950779776b236fde1f58ed354075ea7d3f2
 * 予定：12-13時　OSSソフトのインストール（オプション）
 * 　　　13-15時　公示地価データの分析体験
 * 　　　15-16時　国勢調査データの分析デモ
 * 　　　長丁場なので途中で抜けていただいて構いません
 
+<<<<<<< HEAD
 ### OSSソフトのインストールについて
 
 Windows/Macで同じ作業環境をつくるため、仮想化ソフトのvirtualBox上でLinux(Ubuntu)を使って説明します。
@@ -71,4 +76,26 @@ Ubuntu上で端末を開き、
 
 
 
+=======
+#### OSSソフトのインストールについて
+
+NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを真似て、以下のソフトウエアをインストールします。
+自分でインストールできる方は13時から参加してください。
+virtualBoxのインストール手順は２月５日までにここに掲示します。
+
+* Windows(7以降)の場合
+  * virtualBox <https://www.virtualbox.org/>
+  * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストール。LibreOfficeが含まれています
+  * QGIS <http://qgis.org/ja/site/forusers/download.html>
+  * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です。Ubuntu側にインストールします
+  * R <https://www.r-project.org/>
+
+* Macの場合
+  * virtualBox <https://www.virtualbox.org/> mac環境を汚したくない場合
+  * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> virtualBoxにインストール。LibreOfficeが含まれています
+  * LibreOffice<https://ja.libreoffice.org/>か、OpenOffice<http://www.openoffice.org/ja/>
+  * QGIS <http://qgis.org/ja/site/forusers/download.html>
+  * mySQL <https://www-jp.mysql.com/> オラクルに登録が必要です
+  * R <https://www.r-project.org/>
+>>>>>>> 82117950779776b236fde1f58ed354075ea7d3f2
 
