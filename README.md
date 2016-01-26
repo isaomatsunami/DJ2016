@@ -72,4 +72,4 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
 	>>> sudo apt-get install qgis
 	>>> qgis (起動)
 	>>> sudo apt-get install mysql-server　（rootのパスワードは今回は空欄。３回）
-
+	>>> sudo apt-get install python-pandas
