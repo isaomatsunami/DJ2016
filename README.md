@@ -27,6 +27,7 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
 
 #### インストール手順
 
+* セキュリティの厳しい社内LANだと失敗する可能性があります。
 * virtualBox <https://www.virtualbox.org/> から対応ファイルをダウンロードする。
 * Ubuntu日本語Remixイメージ <https://www.ubuntulinux.jp/japanese> をダウンロードする。
   * Windowsの場合、「コントロールパネル」の「システム」を見て、32bitか64bitか確認する。
@@ -44,8 +45,8 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
     * 仮想ハードディスクにあるストレージは固定サイズにし、10GB-30GB程度を確保する。
     * その他の設定はデフォルト。
   * 「起動」を選び、Ubuntuのisoイメージを指定するとインストールが始まる（ユーザー名などを適宜入力する）。
-  * 最後に再起動するが、停止する場合は「Machine」の「Reset」をかけて強制再起動する。
-  * Ubuntu再起動後、virtualBoxのDevices▶︎Insert Guest Additions CD Imageを実行する（これにより、画面サイズが自動になる）。
+  * 最後に再起動するが、停止する場合はMachine(マシン)▶︎Reset（リセット）をかけて強制再起動する。
+  * Ubuntu再起動後、virtualBoxのDevices▶︎Insert Guest Additions CD Image(Guest addition CDイメージ挿入)を実行する（これにより、画面サイズが自動になる）。
   * 再びUbuntuをシャットダウンし、VirtualBoxの設定▶︎一般▶︎高度でクリップボードとドラッグ＆ドロップを「双方向」にする。
 * Macの場合
   * virtualBoxのインストーラーをクリックして、インストールする。
@@ -54,7 +55,7 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
     * 仮想ハードディスクにあるストレージは固定サイズにし、10GB-30GB程度を確保する。
     * その他の設定はデフォルト。
   * 「起動」を選び、Ubuntuのisoイメージを指定するとインストールが始まる（ユーザー名などを適宜入力する）。
-  * 最後に再起動するが、停止する場合は「Machine」の「Reset」をかけて強制再起動する。
+  * 最後に再起動するが、停止する場合はMachine▶︎Resetをかけて強制再起動する。
   * Ubuntu再起動後、virtualBoxのDevices▶︎Insert Guest Additions CD Imageを実行する（これにより、画面サイズが自動になる）。
   * 再びUbuntuをシャットダウンし、VirtualBoxの設定▶︎一般▶︎高度でクリップボードとドラッグ＆ドロップを「双方向」にする。
 
@@ -67,6 +68,8 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
 	>>> sudo get-apt update
 	>>> sudo apt-get install r-base
 	>>> sudo apt-get install r-cran-*   # スキップしてもよい
+	>>> R (大文字のRで起動)
 	>>> sudo apt-get install qgis
+	>>> qgis (起動)
 	>>> sudo apt-get install mysql-server　（rootのパスワードは今回は空欄。３回）
 
