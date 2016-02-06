@@ -64,8 +64,8 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
 最後に、Ubuntu上で「端末」を開き、ソフトウエアをインストールする。
 ::
 
-	>>> sudo get-apt upgrade
-	>>> sudo get-apt update
+	>>> sudo apt-get upgrade
+	>>> sudo apt-get update
 	>>> sudo apt-get install r-base
 	>>> sudo apt-get install r-cran-*   # スキップしてもよい
 	>>> R (大文字のRで起動)
