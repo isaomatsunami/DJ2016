@@ -65,11 +65,11 @@ NICAR前日(9日)に開かれる特別トレーニングBootstraping the Newsを
 ::
 
 	>>> sudo apt-get upgrade
-	>>> sudo apt-get update
+	>>> sudo apt-get update             # apt-cache search/show <アプリ名>で探す
 	>>> sudo apt-get install r-base
 	>>> sudo apt-get install r-cran-*   # スキップしてもよい
 	>>> R (大文字のRで起動)
 	>>> sudo apt-get install qgis
 	>>> qgis (起動)
-	>>> sudo apt-get install mysql-server　（rootのパスワードは今回は空欄。３回）
 	>>> sudo apt-get install python-pandas
+	>>> sudo apt-get install mysql-server　#今回はスキップ（rootのパスワードは今回は空欄。３回）
